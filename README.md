@@ -6,7 +6,7 @@
 
 ## __Meu Perfil Web__ ##
 
-> Meu perfil em forma de site web. Por meio da utilização de HTML, CSS e JavaScript com a finalidade de promover minhas habilidades e conhecimentos.
+> Meu perfil em forma de site web. Por meio da utilização de __HTML__, __CSS__ e __JavaScript__ com a finalidade de promover minhas habilidades e conhecimentos.
 
 <h1> 
   <a href="[https://www.linkedin.com/in/davi-battigaglia-messias-80b266258/](https://davi-bm.github.io/Projeto-Meu-Perfil-Web/)" style="color: #e1f2f7 !important; text-decoration: none; color: inherit;">
